@@ -356,6 +356,7 @@
 "Assets/MainMenu.cs"
 "Assets/Scripts/Contact.cs"
 "Assets/Scripts/GameManager.cs"
+"Assets/Scripts/HighScore.cs"
 -langversion:9.0
 
 /deterministic
